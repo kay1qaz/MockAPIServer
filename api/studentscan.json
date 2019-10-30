@@ -1,0 +1,260 @@
+{
+  "events": [
+    {
+      "eventId":101231,
+      "eventName":"COMPSCI101S1: Terms Test 2019",
+      "courseId":"COMPSCI101",
+      "semester":"S1",
+      "description":"description",
+      "startDateTime":"2019-05-28 09:00:00",
+      "endDateTime":"2019-05-28 12:30:00",
+      "location":"Room 107",
+      "organizerId":"arhk8888",
+      "organizerPhoto":"./assets/img/6.jpg",
+      "organizerName":"Aaron Hank",
+      "subOrganizerName":"",
+      "currentDateTime":"2019-09-28 09:30:50",
+      "status": 2
+    },
+    {
+      "eventId":101232,
+      "eventName":"BIOINF702S1: Terms Test 2019",
+      "courseId":"BIOINF702",
+      "semester":"S1",
+      "description":"description",
+      "startDateTime":"2019-05-28 09:00:00",
+      "endDateTime":"2019-05-28 12:30:00",
+      "location":"Room 312",
+      "organizerId":"arhk8888",
+      "organizerPhoto":"./assets/img/3.jpg",
+      "organizerName":"Carter Jimmy",
+      "subOrganizerName":"",
+      "currentDateTime":"2019-09-28 09:30:50",
+      "status": 2
+    },
+    {
+      "eventId":101233,
+      "eventName":"COMPSCI101S1: Terms Test 2019",
+      "courseId":"COMPSCI101",
+      "semester":"S1",
+      "description":"description",
+      "startDateTime":"2019-05-28 10:00:00",
+      "endDateTime":"2019-05-28 13:00:00",
+      "location":"Room 107",
+      "organizerId":"arhk8888",
+      "organizerPhoto":"./assets/img/7.jpg",
+      "organizerName":"Heidi Clayton",
+      "subOrganizerName":"",
+      "currentDateTime":"2019-09-28 09:30:50",
+      "status": 1
+    },
+    {
+      "eventId":101234,
+      "eventName":"BIOINF702S1: Terms Test 2019",
+      "courseId":"BIOINF702",
+      "semester":"S1",
+      "description":"description",
+      "startDateTime":"2019-05-29 09:00:00",
+      "endDateTime":"2019-05-29 12:30:00",
+      "location":"Room 312",
+      "organizerId":"arhk8888",
+      "organizerPhoto":"./assets/img/1.jpg",
+      "organizerName":"William French",
+      "subOrganizerName":"",
+      "currentDateTime":"2019-09-28 09:30:50",
+      "status": 1
+    },
+    {
+      "eventId":101235,
+      "eventName":"COMPSCI101S1: Terms Test 2019",
+      "courseId":"COMPSCI101",
+      "semester":"S1",
+      "description":"description",
+      "startDateTime":"2019-09-28 09:00:00",
+      "endDateTime":"2019-09-28 12:30:00",
+      "location":"Room 107",
+      "organizerId":"arhk8888",
+      "organizerPhoto":"./assets/img/2.jpg",
+      "organizerName":"Aaron Hank",
+      "subOrganizerName":"",
+      "currentDateTime":"2019-09-28 09:30:50",
+      "status": 0
+    },
+    {
+      "eventId":101236,
+      "eventName":"BIOINF702S2: Terms Test 2019",
+      "courseId":"BIOINF702",
+      "semester":"S2",
+      "description":"description",
+      "startDateTime":"2019-09-28 09:00:00",
+      "endDateTime":"2019-09-28 12:30:00",
+      "location":"Room 312",
+      "organizerId":"arhk8888",
+      "organizerPhoto":"./assets/img/7.jpg",
+      "organizerName":"Timmy Yates",
+      "subOrganizerName":"",
+      "currentDateTime":"2019-09-28 09:30:50",
+      "status": 1
+    },
+    {
+      "eventId":101237,
+      "eventName":"COMPSCI101S2: Terms Test 2019",
+      "courseId":"COMPSCI101",
+      "semester":"S2",
+      "description":"description",
+      "startDateTime":"2019-09-28 10:00:00",
+      "endDateTime":"2019-09-28 13:30:00",
+      "location":"Room 107",
+      "organizerId":"arhk8888",
+      "organizerPhoto":"./assets/img/6.jpg",
+      "organizerName":"David Perez",
+      "subOrganizerName":"",
+      "currentDateTime":"2019-09-28 09:30:50",
+      "status": 1
+    },
+    {
+      "eventId":101238,
+      "eventName":"BIOINF702S2: Terms Test 2019",
+      "courseId":"BIOINF702",
+      "semester":"S2",
+      "description":"description",
+      "startDateTime":"2019-09-29 09:00:00",
+      "endDateTime":"2019-09-29 12:30:00",
+      "location":"Room 312",
+      "organizerId":"arhk8888",
+      "organizerPhoto":"./assets/img/7.jpg",
+      "organizerName":"Carter Jimmy",
+      "subOrganizerName":"",
+      "currentDateTime":"2019-09-28 09:30:50",
+      "status": 1
+    },
+    {
+      "eventId":101236,
+      "eventName":"BIOINF702S2: Terms Test 2019",
+      "courseId":"BIOINF702",
+      "semester":"S2",
+      "description":"description",
+      "startDateTime":"2019-09-28 09:00:00",
+      "endDateTime":"2019-09-28 12:30:00",
+      "location":"Room 312",
+      "organizerId":"arhk8888",
+      "organizerPhoto":"./assets/img/7.jpg",
+      "organizerName":"Timmy Yates",
+      "subOrganizerName":"",
+      "currentDateTime":"2019-09-28 09:30:50",
+      "status": 1
+    },
+    {
+      "eventId":101237,
+      "eventName":"COMPSCI101S2: Terms Test 2019",
+      "courseId":"COMPSCI101",
+      "semester":"S2",
+      "description":"description",
+      "startDateTime":"2019-09-28 10:00:00",
+      "endDateTime":"2019-09-28 13:30:00",
+      "location":"Room 107",
+      "organizerId":"arhk8888",
+      "organizerPhoto":"./assets/img/6.jpg",
+      "organizerName":"David Perez",
+      "subOrganizerName":"",
+      "currentDateTime":"2019-09-28 09:30:50",
+      "status": 1
+    },
+    {
+      "eventId":101238,
+      "eventName":"BIOINF702S2: Terms Test 2019",
+      "courseId":"BIOINF702",
+      "semester":"S2",
+      "description":"description",
+      "startDateTime":"2019-09-29 09:00:00",
+      "endDateTime":"2019-09-29 12:30:00",
+      "location":"Room 312",
+      "organizerId":"arhk8888",
+      "organizerPhoto":"./assets/img/7.jpg",
+      "organizerName":"Carter Jimmy",
+      "subOrganizerName":"",
+      "currentDateTime":"2019-09-28 09:30:50",
+      "status": 1
+    }
+  ],
+  "eventStatus": [
+    {
+      "eventId": 101231,
+      "status": 1,
+      "currentAttendance": 8,
+      "expectedAttendance": 20,
+      "currentDateTime": "2019-09-28 09:45:00"
+    },
+    {
+      "eventId":101232,
+      "status": 1,
+      "currentAttendance": 8,
+      "expectedAttendance": 20,
+      "currentDateTime": "2019-09-28 09:45:00"
+    },
+    {
+      "eventId":101233,
+      "status": 1,
+      "currentAttendance": 8,
+      "expectedAttendance": 20,
+      "currentDateTime": "2019-09-28 09:45:00"
+    },
+    {
+      "eventId":101234,
+      "status": 1,
+      "currentAttendance": 8,
+      "expectedAttendance": 20,
+      "currentDateTime": "2019-09-28 09:45:00"
+    },
+    {
+      "eventId":101235,
+      "status": 1,
+      "currentAttendance": 8,
+      "expectedAttendance": 20,
+      "currentDateTime": "2019-09-28 09:45:00"
+    },
+    {
+      "eventId":101236,
+      "status": 1,
+      "currentAttendance": 8,
+      "expectedAttendance": 20,
+      "currentDateTime": "2019-09-28 09:45:00"
+    },
+    {
+      "eventId":101237,
+      "status": 1,
+      "currentAttendance": 8,
+      "expectedAttendance": 20,
+      "currentDateTime": "2019-09-28 09:45:00"
+    },
+    {
+      "eventId":101238,
+      "status": 1,
+      "currentAttendance": 8,
+      "expectedAttendance": 20,
+      "currentDateTime": "2019-09-28 09:45:00"
+    },
+    {
+      "eventId":101236,
+      "status": 1,
+      "currentAttendance": 8,
+      "expectedAttendance": 20,
+      "currentDateTime": "2019-09-28 09:45:00"
+    },
+    {
+      "eventId":101237,
+      "status": 1,
+      "currentAttendance": 8,
+      "expectedAttendance": 20,
+      "currentDateTime": "2019-09-28 09:45:00"
+    },
+    {
+      "eventId":101238,
+      "status": 1,
+      "currentAttendance": 8,
+      "expectedAttendance": 20,
+      "currentDateTime": "2019-09-28 09:45:00"
+    }
+  ]
+
+}
